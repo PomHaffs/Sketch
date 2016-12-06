@@ -1,4 +1,4 @@
-### Sketch
+# Sketch
  
 ##Description
 - Basic Sketch 3 design and UI course
