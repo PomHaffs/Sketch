@@ -17,5 +17,5 @@
 
 ##App Design
 - Full mock up of social app
-- Generation of all assets: Buttons, Images etc...
+- Generation of all assets: Buttons, Images and various assets
 
